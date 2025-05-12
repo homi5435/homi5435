@@ -36,14 +36,18 @@
 
 <div align="center">
   <!--  github stats   -->
+  
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=homi5435&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 <br>
 
 <div align="center">
-  <!--  github stats   -->
+  <!--  github toplangs   -->
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=homi5435&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
 
 <!--
